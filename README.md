@@ -119,6 +119,8 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 REST API for an Online Food Application
 We have developed this REST API for an Online Food application. This API performs all the fundamental CRUD operations of any Online Food platform with user validation at every step.
+
+# <span style="color:blue"> Tech Stack Used: </span>
 This project is developed by team of 5 Back-end Developers during project week in Masai School.
 Tech Stack
 Java
@@ -127,6 +129,7 @@ Spring Boot
 Spring Data JPA
 Hibernate
 MySQL
+# <span style="colorblue"> Experience of team: </span>
 Modules
 Login, Logout Module
 Customer Module
