@@ -15,6 +15,28 @@ We have done this project with group of 5 members and build the Rest API using s
 It is an online food delivery app where user can order food for them self like zomato and swiggy platform 
 
 # <span style="color:blue"> Tech Stack Used: </span>
+REST API for an Online Food Application
+We have developed this REST API for an Online Food application. This API performs all the fundamental CRUD operations of any Online Food platform with user validation at every step.
+This project is developed by team of 5 Back-end Developers during project week in Masai School.
+Tech Stack
+Java
+Spring Framework
+Spring Boot
+Spring Data JPA
+Hibernate
+MySQL
+Modules
+Login, Logout Module
+Customer Module
+Admin Module
+Features
+Customer and Admin authentication & validation.
+Admin Features:
+Administrator Role of the entire application
+Only registered admins with valid session token can add/update/delete driver or customer from main database
+Admin can access the details of different customers.
+Customer Features:
+Registering themselves with application, and logging in to get the valid session token.
 
 We have used sts spring tool platform ,Java,spring ,spring boot framework , annotations, model , service layer , service implementation , controller layer , data access layer and mysql as a database for building this Project. We also used tools like GitHub for collaboration of our project, Slack & Zoom as means of a communication channel.
 
@@ -129,7 +151,6 @@ Spring Boot
 Spring Data JPA
 Hibernate
 MySQL
-# <span style="colorblue"> Experience of team: </span>
 Modules
 Login, Logout Module
 Customer Module
