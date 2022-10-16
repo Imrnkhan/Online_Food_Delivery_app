@@ -115,3 +115,27 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 
 # <span style="color:red"> Thank You For Reading </span>
+
+
+REST API for an Online Food Application
+We have developed this REST API for an Online Food application. This API performs all the fundamental CRUD operations of any Online Food platform with user validation at every step.
+This project is developed by team of 5 Back-end Developers during project week in Masai School.
+Tech Stack
+Java
+Spring Framework
+Spring Boot
+Spring Data JPA
+Hibernate
+MySQL
+Modules
+Login, Logout Module
+Customer Module
+Admin Module
+Features
+Customer and Admin authentication & validation.
+Admin Features:
+Administrator Role of the entire application
+Only registered admins with valid session token can add/update/delete driver or customer from main database
+Admin can access the details of different customers.
+Customer Features:
+Registering themselves with application, and logging in to get the valid session token.
